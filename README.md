@@ -1,0 +1,1 @@
+# program-to-get-both-cross-and-box-pattern
